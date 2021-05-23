@@ -1,0 +1,75 @@
+{
+	"_id": {
+		"$oid": "60aa717ca998d8459c763d4a"
+	},
+	"actors": [
+		"Angelina Joly"
+	],
+	"title": "The patchMovie",
+	"duration": 1.45,
+	"director": {
+		"dname": "abc",
+		"dage": null
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "60aa796f4373e543508a75b0"
+	},
+	"actors": [],
+	"title": "Secrete",
+	"duration": 2,
+	"director": {
+		"dname": "Jason K.",
+		"dage": 40
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "60aa7993b4fe4b55a0c14571"
+	},
+	"actors": [
+		"Cameron Diaz",
+		"Asten kucher"
+	],
+	"title": "What happens in vegas",
+	"duration": 1.59,
+	"year": 1999,
+	"director": {
+		"dname": "James J. Cameron",
+		"dage": 55
+	},
+	"__v": 1
+}
+{
+	"_id": {
+		"$oid": "60aac9d5f80e3b14743fe0c2"
+	},
+	"actors": [
+		"Dave Bautista"
+	],
+	"__v": 0,
+	"duration": 2,
+	"title": "Stranger Things",
+	"year": 2016,
+	"director": {
+		"dname": "Jack Jim",
+		"dage": 36
+	}
+}
+{
+	"_id": {
+		"$oid": "60aad4df05229a52e052c048"
+	},
+	"actors": [],
+	"title": "Army of the dead",
+	"duration": 2.28,
+	"year": 2021,
+	"director": {
+		"dname": "Ella pumel",
+		"dage": 35
+	},
+	"__v": 0
+}
